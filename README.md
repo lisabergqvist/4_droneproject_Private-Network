@@ -52,5 +52,5 @@ flask run --host 0.0.0.0
 ```
 
 
-Note: Don't use `python3 build.py`, `python3 route_planner.py`, `python3 database.py` or `python3 drone.py` to run the webservers, since this does not porvide all the functionality requied by the application.
+Note: Don't use `python3 build.py`, `python3 route_planner.py`, `python3 database.py` or `python3 drone.py` to run the webservers, since this may not provide all the functionality requied by the application.
 
